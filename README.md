@@ -90,3 +90,9 @@ Feel free to open an issue or submit a pull request if you discover new patterns
 ## License
 
 Released under the [MIT License](LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Elementor MCP](https://img.shields.io/badge/Elementor-MCP%20Ready-ff2a70.svg)](https://elementor.com/mcp/)
+[![Core Web Vitals](https://img.shields.io/badge/Lighthouse-100%2F100-success.svg)](https://pagespeed.web.dev/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)
+[![M8ven Score](https://m8ven.ai/badge/mcp/andrean-lp/elementor-mcp-perf-rules-qfdwjz?s=2294086ae9b98788104c93fc1a6375840)](https://m8ven.ai/mcp/andrean-lp/elementor-mcp-perf-rules-qfdwjz?s=readme)
